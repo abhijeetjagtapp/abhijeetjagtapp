@@ -70,6 +70,13 @@ An end-to-end analytics pipeline investigating customer attrition across subscri
 
 ### 🤖 Autonomous Navigation & Path Planning
 Developed A* path planning algorithms in Python with obstacle avoidance in ROS2/Gazebo simulated environments, backed by rigorous test case design and decision-logic validation.
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 `Python` `ROS2` `Gazebo` `A* Search`
 
