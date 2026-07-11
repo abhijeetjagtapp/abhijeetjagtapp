@@ -16,10 +16,6 @@
 
 <br>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abhijeetjagtapp&theme=tokyonight&hide_border=true&ring=00B8D4&fire=00B8D4&currStreakLabel=00B8D4"/>
-</p>
-
 
 
 
@@ -52,6 +48,12 @@
 </p>
 
 <br>
+
+
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=abhijeetjagtapp&theme=tokyonight&hide_border=true&ring=00B8D4&fire=00B8D4&currStreakLabel=00B8D4"/>
+</p>
 
 ## 📌 Pinned Projects
 
