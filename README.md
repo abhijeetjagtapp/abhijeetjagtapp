@@ -1,147 +1,113 @@
 <div align="center">
 
-# Abhijeet Jagtap
+# Hi, I'm Abhijeet Jagtap 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00B8D4&center=true&vCenter=true&width=700&lines=Data+Analyst;Analytics+Engineer;Business+Intelligence+Developer;Power+BI+Developer;SQL+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00B8D4&center=true&vCenter=true&width=650&lines=Data+Analyst;Analytics+Engineer;Data+Storyteller;Full-Stack+Developer" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0891b2"/>
+**Turning raw data into business decisions through analytics, visualization, and engineering.**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhijeetjagtap.ca-00B8D4?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijeetjagtap.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-### Turning raw data into business decisions through analytics, visualization and engineering.
+<img src="https://komarev.com/ghpvc/?username=abhijeetjagtapp&style=for-the-badge&color=0891b2"/>
 
 </div>
 
----
+<br>
 
-# Tech Stack
+## 🚀 About Me
 
-## Programming
+- 📊 Data Analyst & Full-Stack Developer based in Sudbury, Ontario, Canada
+- 🔍 Focused on turning messy data into clean pipelines, dashboards, and decisions
+- 🛠️ Comfortable across the full stack — from SQL and DAX to React and Node.js
+- 🌱 Currently building out a FAANG-level analyst portfolio with end-to-end pipeline projects
+- 💬 Ask me about Power BI, data modeling, or anything React/Next.js
+
+<br>
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,react,nodejs,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,typescript,react,nextjs,nodejs,html,css"/>
 </p>
 
----
-
-## Python Ecosystem
+**Data & Analytics**
 
 <p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Power_BI-00B8D4?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-00B8D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-1F6FEB?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-1F6FEB?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-1F6FEB?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
----
-
-## Databases
+**Databases, Cloud & Tools**
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,azure,docker,git,github,vscode"/>
+<img src="https://img.shields.io/badge/Snowflake-00B8D4?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
 
----
+<br>
 
-## Data Analytics
+## 📌 Pinned Projects
 
-<p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### 🔗 End-to-End Data Pipeline
+A full analyst workflow — dataset ingestion, cleaning with Power Query/Python, star-schema modeling, and layered DAX measures, packaged with an interview-ready narrative.
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+`Python` `SQL` `Power BI` `Power Query` `DAX`
 
-<img src="https://img.shields.io/badge/Power_Query-0066CC?style=for-the-badge"/>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/DAX-EFB700?style=for-the-badge"/>
+### 🌐 Personal Portfolio Site
+A Next.js/TypeScript/Tailwind portfolio built around a four-stage data pipeline metaphor — **Ingest → Transform → Model → Ship** — as both navigation and personal brand.
 
-<img src="https://img.shields.io/badge/Data_Modelling-1F6FEB?style=for-the-badge"/>
+`Next.js` `TypeScript` `Tailwind CSS`
 
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## Cloud & Data Warehouse
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker"/>
-
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-
-</p>
-
----
-
-## Development Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</p>
-
----
-
-# GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhijeetjagtapp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=00B8D4&icon_color=00B8D4"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetjagtapp&layout=compact&theme=tokyonight&hide_border=true&title_color=00B8D4"/>
 </p>
-
----
-
-# GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=abhijeetjagtapp&theme=tokyonight&hide_border=true&ring=00B8D4&fire=00B8D4&currStreakLabel=00B8D4"/>
 </p>
-
----
-
-# Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetjagtapp&theme=tokyo-night&hide_border=true&color=00B8D4&line=00B8D4"/>
 </p>
 
----
-
-# Trophies
-
+<details>
+<summary>🏆 Trophies</summary>
+<br>
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=abhijeetjagtapp&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
+</details>
 
----
+<br>
 
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for stopping by — let's connect!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D4,100:1F6FEB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D4,100:1F6FEB&height=100&section=footer"/>
 
 </div>
