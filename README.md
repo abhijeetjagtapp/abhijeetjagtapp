@@ -6,7 +6,7 @@
 
 **Turning raw data into business decisions through analytics, visualization, and engineering.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhijeetjagtap.ca-00B8D4?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijeetjagtap.ca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhijeetjagtap.com-00B8D4?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijeetjagtap.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeetjagtapp/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijeetjagtap.aj5@gmail.com)
 
