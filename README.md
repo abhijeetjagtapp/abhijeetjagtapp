@@ -82,7 +82,7 @@ A Next.js/TypeScript/Tailwind portfolio built around a four-stage data pipeline 
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetjagtapp&layout=compact&theme=tokyonight&hide_border=true&title_color=00B8D4"/>
+
 </p>
 
 <p align="center">
