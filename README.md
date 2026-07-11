@@ -7,8 +7,8 @@
 **Turning raw data into business decisions through analytics, visualization, and engineering.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhijeetjagtap.ca-00B8D4?style=for-the-badge&logo=vercel&logoColor=white)](https://abhijeetjagtap.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeetjagtapp/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijeetjagtap.aj5@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=abhijeetjagtapp&style=for-the-badge&color=0891b2"/>
 
@@ -43,13 +43,13 @@
 <img src="https://img.shields.io/badge/Excel-1F6FEB?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-1F6FEB?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-1F6FEB?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-1F6FEB?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
 
 **Databases, Cloud & Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,azure,docker,git,github,vscode"/>
-<img src="https://img.shields.io/badge/Snowflake-00B8D4?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
 
 <br>
@@ -94,20 +94,8 @@ A Next.js/TypeScript/Tailwind portfolio built around a four-stage data pipeline 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetjagtapp&theme=tokyo-night&hide_border=true&color=00B8D4&line=00B8D4"/>
 </p>
 
-<details>
-<summary>🏆 Trophies</summary>
-<br>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhijeetjagtapp&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-</details>
-
-<br>
-
 <div align="center">
 
 ### Thanks for stopping by — let's connect!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D4,100:1F6FEB&height=100&section=footer"/>
 
 </div>
