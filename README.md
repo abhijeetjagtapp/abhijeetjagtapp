@@ -68,10 +68,10 @@ An end-to-end analytics pipeline investigating customer attrition across subscri
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio Site
-A Next.js/TypeScript/Tailwind portfolio built around a four-stage data pipeline metaphor — **Ingest → Transform → Model → Ship** — as both navigation and personal brand.
+### 🤖 Autonomous Navigation & Path Planning
+Developed A* path planning algorithms in Python with obstacle avoidance in ROS2/Gazebo simulated environments, backed by rigorous test case design and decision-logic validation.
 
-`Next.js` `TypeScript` `Tailwind CSS`
+`Python` `ROS2` `Gazebo` `A* Search`
 
 </td>
 </tr>
