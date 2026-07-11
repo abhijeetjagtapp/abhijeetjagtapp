@@ -21,6 +21,7 @@
 - 📊 Data Analyst & Full-Stack Developer based in Sudbury, Ontario, Canada
 - 🔍 Focused on turning messy data into clean pipelines, dashboards, and decisions
 - 🛠️ Comfortable across the full stack — from SQL and DAX to React and Node.js
+- 🌱 Currently building out a FAANG-level analyst portfolio with end-to-end pipeline projects
 - 💬 Ask me about Power BI, data modeling, or anything React/Next.js
 
 <br>
@@ -59,10 +60,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 End-to-End Data Pipeline
-A full analyst workflow — dataset ingestion, cleaning with Power Query/Python, star-schema modeling, and layered DAX measures, packaged with an interview-ready narrative.
+### 📉 Customer Churn Prediction & Retention Analytics
+An end-to-end analytics pipeline investigating customer attrition across subscription, demographic, revenue, and support data — engineered churn flags, tenure, and revenue-at-risk features, then visualized results in a Power BI executive dashboard. Uncovered 28% overall churn and high-value segments needing retention action.
 
-`Python` `SQL` `Power BI` `Power Query` `DAX`
+`Python` `SQL` `Power BI` `DAX`
 
 </td>
 <td width="50%" valign="top">
@@ -81,12 +82,12 @@ A Next.js/TypeScript/Tailwind portfolio built around a four-stage data pipeline 
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhijeetjagtapp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=00B8D4&icon_color=00B8D4"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetjagtapp&layout=compact&theme=tokyonight&hide_border=true&title_color=00B8D4"/>
 </p>
 
 <p align="center">
-
+<img src="https://streak-stats.demolab.com?user=abhijeetjagtapp&theme=tokyonight&hide_border=true&ring=00B8D4&fire=00B8D4&currStreakLabel=00B8D4"/>
 </p>
 
 <p align="center">
