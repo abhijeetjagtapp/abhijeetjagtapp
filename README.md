@@ -16,12 +16,10 @@
 
 <br>
 
-
-
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhijeetjagtapp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=00B8D4&icon_color=00B8D4"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetjagtapp&layout=compact&theme=tokyonight&hide_border=true&title_color=00B8D4"/>
+<img src="https://streak-stats.demolab.com?user=abhijeetjagtapp&theme=tokyonight&hide_border=true&ring=00B8D4&fire=00B8D4&currStreakLabel=00B8D4"/>
 </p>
+
 
 
 
@@ -91,9 +89,6 @@ Developed A* path planning algorithms in Python with obstacle avoidance in ROS2/
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abhijeetjagtapp&theme=tokyonight&hide_border=true&ring=00B8D4&fire=00B8D4&currStreakLabel=00B8D4"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetjagtapp&theme=tokyo-night&hide_border=true&color=00B8D4&line=00B8D4"/>
