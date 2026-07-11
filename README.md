@@ -14,7 +14,6 @@
 
 </div>
 
-<br>
 
 ## 🧰 Tech Stack
 
@@ -41,11 +40,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,azure,docker,git,github,vscode"/>
 </p>
-
-<br>
-
-
-
 
 
 ## 📌 Pinned Projects
