@@ -21,7 +21,6 @@
 - 📊 Data Analyst & Full-Stack Developer based in Sudbury, Ontario, Canada
 - 🔍 Focused on turning messy data into clean pipelines, dashboards, and decisions
 - 🛠️ Comfortable across the full stack — from SQL and DAX to React and Node.js
-- 🌱 Currently building out a FAANG-level analyst portfolio with end-to-end pipeline projects
 - 💬 Ask me about Power BI, data modeling, or anything React/Next.js
 
 <br>
@@ -82,12 +81,12 @@ A Next.js/TypeScript/Tailwind portfolio built around a four-stage data pipeline 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhijeetjagtapp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=00B8D4&icon_color=00B8D4"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetjagtapp&layout=compact&theme=tokyonight&hide_border=true&title_color=00B8D4"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=abhijeetjagtapp&theme=tokyonight&hide_border=true&ring=00B8D4&fire=00B8D4&currStreakLabel=00B8D4"/>
+
 </p>
 
 <p align="center">
