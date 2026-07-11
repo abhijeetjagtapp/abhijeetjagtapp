@@ -61,7 +61,7 @@
 <td width="50%" valign="top">
 
 ### 📉 Customer Churn Prediction & Retention Analytics
-An end-to-end analytics pipeline investigating customer attrition across subscription, demographic, revenue, and support data - engineered churn flags, tenure, and revenue-at-risk features, then visualized results in a Power BI executive dashboard. Uncovered 28% overall churn and high-value segments needing retention action.
+An end-to-end analytics pipeline investigating customer attrition across subscription, demographic, revenue, and support data — engineered churn flags, tenure, and revenue-at-risk features, then visualized results in a Power BI executive dashboard. Uncovered 28% overall churn and high-value segments needing retention action.
 
 `Python` `SQL` `Power BI` `DAX`
 
@@ -70,13 +70,6 @@ An end-to-end analytics pipeline investigating customer attrition across subscri
 
 ### 🌐 Personal Portfolio Site
 A Next.js/TypeScript/Tailwind portfolio built around a four-stage data pipeline metaphor — **Ingest → Transform → Model → Ship** — as both navigation and personal brand.
-
-<br>
-<br>
-<br>
-<br>
-
-
 
 `Next.js` `TypeScript` `Tailwind CSS`
 
