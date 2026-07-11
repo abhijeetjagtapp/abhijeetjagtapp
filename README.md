@@ -74,7 +74,6 @@ Developed A* path planning algorithms in Python with obstacle avoidance in ROS2/
 </tr>
 </table>
 
-<br>
 
 ## 📊 GitHub Analytics
 
